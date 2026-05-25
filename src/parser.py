@@ -1,5 +1,5 @@
 # src/parser.py
-# M3U/TXT 解析，并在解析后立即应用别名标准化
+# M3U/TXT 解析，解析后立即应用别名标准化
 
 import re
 from src.alias_matcher import get_alias_matcher
