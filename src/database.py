@@ -116,7 +116,24 @@ class DatabaseCache:
             await self._conn.commit()
         except Exception as e:
             print(f"⚠️ 保存缓存失败 {url}: {e}")
-    
+
+    async def get_raw_headers(self, url: str) -> tuple:
+    """获取缓存的 etag 和 last_modified"""
+    if not self._conn:
+        return '', ''
+    try:
+        cursor = await self._conn.execute(
+            f'SELECT etag, last_modified FROM {DATABASE_TABLE}_raw WHERE url = ?',
+            (url,)
+        )
+        row = await cursor.fetchone()
+        await cursor.close()
+        if row:
+            return row[0] or '', row[1] or ''
+        return '', ''
+    except Exception:
+        return '', ''
+        
     async def get_source_hash(self, url: str) -> Optional[str]:
         """获取源内容的哈希值（用于检测变更）"""
         if not self._conn:
