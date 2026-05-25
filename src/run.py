@@ -76,7 +76,7 @@ async def main():
     print("\n📥 执行增量源检测和拉取...")
     raw_contents = await fetch_all_sources_incremental(IPTV_SOURCES, db)
     
-    # 解析所有拉取到的内容（有变化或首次拉取的源）
+    # 解析所有拉取到的内容
     channels_dict = parse_and_dedupe(raw_contents)
     if not channels_dict:
         print("❌ 未获取到任何频道，尝试使用数据库缓存")
