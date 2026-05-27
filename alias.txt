@@ -100,9 +100,9 @@ CGTN阿语,CGTN阿语,CGTN 阿语
 
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
 
-翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,翡翠台4K,翡翠台北美版,TVB翡翠台 1080P
+翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,翡翠台4K,翡翠台北美版,TVB翡翠台 1080P,TVB 翡翠台
 
-明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
+明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl,TVB 明珠台
 
 北京卫视,北京卫视4K,北京卫视4K超高清
 
@@ -118,7 +118,7 @@ FZTV1,FZTV-1,福州综合,福州1-新闻
 
 FZTV3,FZTV-3,福州生活,福州3-生活
 
-无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
+无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台,TVB 新闻台,TVB 无线新闻
 
 港台电视31,港台电视 31,港台電視 31,RTHK31,RTHK 31,RTHK-31
 
@@ -298,7 +298,7 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 TVB星河,TVB星河,TVB星河频道
 
-TVB新闻台,TVB新闻台,TVB 新闻台
+TVB新闻台,TVB新闻台
 
 TVB精选台,TVB精选台,TVB 精选台
 
@@ -306,13 +306,13 @@ TVB娱乐新闻台,TVB娱乐新闻台,TVB 娱乐新闻台
 
 TVB无线新闻,TVB无线新闻
 
-Viu TV,ViuTV,VIUTV,Viu 电视
+Viu TV,ViuTV,VIUTV,Viu 电视,Viutv
 
 凤凰卫视台,凤凰卫视台
 
 凤凰电影,凤凰电影
 
-TVBS亚洲,TVBS亚洲
+TVBS-Asia,TVBS亚洲
 
 纬来体育,纬来体育
 
@@ -401,16 +401,3 @@ Now剧集,Now剧集
 温州新闻综合,温州新闻综合
 
 绍兴新闻综合,绍兴新闻综合
-
-TVB翡翠台=翡翠台
-TVB翡翠台 1080P=翡翠台
-TVB 翡翠台=翡翠台
-TVB明珠台=明珠台
-TVB 明珠台=明珠台
-VIUTV=ViuTV
-Viutv=ViuTV
-无线新闻=无线新闻台
-TVB 新闻台=无线新闻台
-TVB无线新闻=无线新闻台
-TVB 无线新闻=无线新闻台
-TVBS亚洲=TVBS-Asia
