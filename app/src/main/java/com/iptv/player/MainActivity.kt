@@ -1,8 +1,5 @@
 package com.iptv.player
 
-import android.app.Activity
-import android.content.pm.ActivityInfo
-import android.net.Uri
 import android.os.Bundle
 import android.view.View
 import android.widget.ProgressBar
@@ -19,11 +16,6 @@ import com.google.android.exoplayer2.ui.PlayerView
 import com.google.android.exoplayer2.upstream.DefaultHttpDataSource
 import okhttp3.OkHttpClient
 import okhttp3.Request
-import org.json.JSONArray
-import org.json.JSONObject
-import java.io.BufferedReader
-import java.io.InputStreamReader
-import java.net.URL
 import kotlin.concurrent.thread
 
 class MainActivity : AppCompatActivity() {
@@ -47,15 +39,13 @@ class MainActivity : AppCompatActivity() {
 
         channelList.layoutManager = LinearLayoutManager(this)
 
-        // 尝试加载频道列表
-        loadChannelList()
+        // 直接使用构建时写入的地址
+        loadChannelList(BuildConfig.BASE_URL)
     }
 
-    private fun loadChannelList() {
+    private fun loadChannelList(playlistUrl: String) {
         loadingSpinner.visibility = View.VISIBLE
         errorText.visibility = View.GONE
-        val baseUrl = BuildConfig.BASE_URL
-        val playlistUrl = baseUrl + "tv.txt"  // 或者 tv.m3u
 
         thread {
             try {
@@ -90,7 +80,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    // 解析 tx.txt 格式 (频道名,URL)
+    // 解析 TV.TXT 格式 (频道名,URL)
     private fun parseTxtPlaylist(content: String): List<Channel> {
         val lines = content.lines()
         val channels = mutableListOf<Channel>()
@@ -126,8 +116,9 @@ class MainActivity : AppCompatActivity() {
         playerView.player = exoPlayer
 
         val dataSourceFactory = DefaultHttpDataSource.Factory()
+        // HLS 流媒体源处理
         val mediaSource = HlsMediaSource.Factory(dataSourceFactory)
-            .createMediaSource(MediaItem.fromUri(Uri.parse(url)))
+            .createMediaSource(MediaItem.fromUri(url))
         exoPlayer?.setMediaSource(mediaSource)
         exoPlayer?.prepare()
         exoPlayer?.playWhenReady = true
