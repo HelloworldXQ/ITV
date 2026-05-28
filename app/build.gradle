@@ -14,8 +14,8 @@ android {
         versionCode 1
         versionName "1.0"
 
-        // 修改为您的域名
-        buildConfigField "String", "BASE_URL", "\"https://itv.19860519.xyz/\""
+        // 修改为您的播放列表所在目录（必须包含 /output/）
+        buildConfigField "String", "BASE_URL", "\"https://itv.19860519.xyz/output/\""
     }
 
     buildTypes {
