@@ -1,7 +1,6 @@
 plugins {
     id("com.android.application")
     kotlin("android")
-    id("org.jetbrains.compose")
 }
 
 android {
@@ -43,11 +42,11 @@ android {
 
     buildFeatures {
         compose = true
-        buildConfig = true   // 关键修复：启用 BuildConfig 字段
+        buildConfig = true
     }
 
     composeOptions {
-        kotlinCompilerExtensionVersion = "1.5.11"
+        kotlinCompilerExtensionVersion = "1.5.14"   // 与 Kotlin 1.9.24 兼容
     }
 }
 
