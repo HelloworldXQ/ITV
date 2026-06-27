@@ -1,7 +1,7 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 603
+# 原始频道总数: 601
 # Demo匹配成功: 417
-# 丢弃数量: 186
+# 丢弃数量: 184
 # 格式: 频道名,URL
 
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
@@ -75,7 +75,6 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 CGTN (720p),http://217.20.112.199:8080/cgtn/index.m3u8
 乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
 青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 新昌休闲影视 (1080p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌新聞綜合 (1080p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
@@ -188,5 +187,4 @@ BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 Xizang TV Tibetan (720p) [Not 24/7],http://php.jdshipin.com:8880/xztv.php?id=zy
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
