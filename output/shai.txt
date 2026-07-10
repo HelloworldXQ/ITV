@@ -1,6 +1,6 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 612
-# Demo匹配成功: 424
+# 原始频道总数: 611
+# Demo匹配成功: 423
 # 丢弃数量: 188
 # 格式: 频道名,URL
 
@@ -115,6 +115,7 @@ CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8
 泰山南天门,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
 CGTN Spanish (1080p),http://45.6.4.35/CGTN/index.m3u8
 黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 萬州綜合頻道 (576p),http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
@@ -168,7 +169,6 @@ Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 NewTV武搏世界,http://1.94.31.214/php/hntv.php?id=wspd
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
-邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 CND Film Middle School Channel,http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 Hebei TV (2160p),https://event.pull.hebtv.com/live/live101.m3u8
 RT Doc-Русский（俄语纪录）,https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
