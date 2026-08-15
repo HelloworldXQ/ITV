@@ -1,7 +1,7 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 576
+# 原始频道总数: 574
 # Demo匹配成功: 408
-# 丢弃数量: 168
+# 丢弃数量: 166
 # 格式: 频道名,URL
 
 China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -75,6 +75,7 @@ NewTV黑莓动画,http://1.190.240.47:9003/hls/2072/index.m3u8
 1996年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 蕭山生活頻道 (720p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+CHC动作电影,http://171.38.148.188:9003/hls/100/index.m3u8
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 萬州影視文藝 (576p) [Not 24/7],http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 萬州科教頻道 (576p),http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
@@ -87,6 +88,7 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Home Plus,https://homeplushls.wns.live/hls/stream.m3u8
 CGTN French (1080p),http://145.239.5.177/214/index.m3u8
 Supreme Master TV,https://lbs-us1.suprememastertv.com/720p.m3u8
+CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 汪清,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
@@ -94,7 +96,6 @@ Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txi
 Xinjiang TV 3,http://110.153.180.106:55555/out_2/index.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 萬州綜合頻道 (576p),http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
@@ -168,7 +169,4 @@ BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
 上虞3新商都 (720p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 Xizang TV Tibetan (720p) [Not 24/7],http://php.jdshipin.com:8880/xztv.php?id=zy
-余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
-CHC动作电影,http://171.38.148.188:9003/hls/100/index.m3u8
