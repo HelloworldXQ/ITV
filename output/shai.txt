@@ -1,6 +1,6 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 632
-# Demo匹配成功: 428
+# 原始频道总数: 633
+# Demo匹配成功: 429
 # 丢弃数量: 204
 # 格式: 频道名,URL
 
@@ -157,6 +157,7 @@ CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHA
 Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
 RT Balkan （塞尔维亚语）,https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
 游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 乐游,http://t.061899.xyz/tl/tl.php?id=ly
 乌镇全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
@@ -207,4 +208,3 @@ Xizang TV Tibetan (720p) [Not 24/7],http://php.jdshipin.com:8880/xztv.php?id=zy
 Guangxi Variety & Travel Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
-发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
