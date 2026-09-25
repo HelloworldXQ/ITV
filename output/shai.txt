@@ -1,7 +1,7 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 643
-# Demo匹配成功: 431
-# 丢弃数量: 212
+# 原始频道总数: 639
+# Demo匹配成功: 428
+# 丢弃数量: 211
 # 格式: 频道名,URL
 
 China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -89,6 +89,7 @@ Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 黄山,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
 黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
@@ -135,7 +136,6 @@ Bread TV (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 劲爆体育,http://t.061899.xyz/tl/tl.php?id=jbty
 中学生,http://t.061899.xyz/tl/tl.php?id=zxs
-CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
 Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
 Good 2,https://live.streamingfast.net/osmflivech2.m3u8
 CHC动作电影,http://t.061899.xyz/tl/tl.php?id=chcdzdy
@@ -170,7 +170,6 @@ RT DE（德语）,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 武进生活 (576p) [Not 24/7],https://live.wjyanghu.com/live/CH2.m3u8
 Lanzhou Culture & Tourism Channel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
-邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Chuxiong News Channel [Not 24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
