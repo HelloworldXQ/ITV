@@ -1,7 +1,7 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 630
-# Demo匹配成功: 429
-# 丢弃数量: 201
+# 原始频道总数: 643
+# Demo匹配成功: 431
+# 丢弃数量: 212
 # 格式: 频道名,URL
 
 China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -133,8 +133,12 @@ RT Documentary（英语纪录）,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 Bread TV (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+劲爆体育,http://t.061899.xyz/tl/tl.php?id=jbty
+中学生,http://t.061899.xyz/tl/tl.php?id=zxs
+CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
 Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
 Good 2,https://live.streamingfast.net/osmflivech2.m3u8
+CHC动作电影,http://t.061899.xyz/tl/tl.php?id=chcdzdy
 黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
@@ -154,6 +158,9 @@ CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHA
 Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
 RT Balkan （塞尔维亚语）,https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
+游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
+乐游,http://t.061899.xyz/tl/tl.php?id=ly
 乌镇全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
 TV BRICS Chinese (1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
@@ -167,6 +174,9 @@ Lanzhou Culture & Tourism Channel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Chuxiong News Channel [Not 24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
+钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+CCTV-4美洲,http://t.061899.xyz/tl/tl.php?id=cctv4m
+魅力足球,http://t.061899.xyz/tl/tl.php?id=mlzq
 1905电影网（国内）,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
 RT Español（西语）,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
@@ -184,6 +194,7 @@ CND Film Middle School Channel,http://live-play.zxstv.com.cn/zhongxuesheng/zhong
 Zhejiang International Channel,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 RT Doc-Русский（俄语纪录）,https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 靖江新闻綜合 (480p) [Not 24/7],http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+CCTV-4欧洲,http://t.061899.xyz/tl/tl.php?id=cctv4o
 丽江古城万古楼遥望玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
 丽江古城大研花巷观景,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 武进新闻 (576p) [Not 24/7],https://live.wjyanghu.com/live/CH1.m3u8
