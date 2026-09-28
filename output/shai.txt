@@ -1,7 +1,7 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 641
-# Demo匹配成功: 428
-# 丢弃数量: 213
+# 原始频道总数: 636
+# Demo匹配成功: 424
+# 丢弃数量: 212
 # 格式: 频道名,URL
 
 China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -66,7 +66,6 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 Guangdong Satellite TV,https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 VoA TV China (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 CGTN Global Biz (1080p),https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 Discovering China (1080p),https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
