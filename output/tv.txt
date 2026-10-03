@@ -3,7 +3,7 @@
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791093600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-800f2947dc0c50929bd6b7ea1d650e27&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791104400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-52b5899c51312271e166318bfd26c9fd&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
@@ -25,6 +25,7 @@ CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTe
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -53,6 +54,7 @@ CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 江西卫视,http://112.27.235.94:8000/hls/44/index.m3u8
 辽宁卫视,http://112.27.235.94:8000/hls/47/index.m3u8
 内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8
 山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
@@ -141,7 +143,7 @@ Viu TV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 # ☘️浙江频道,
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -199,7 +201,7 @@ Viu TV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 嵊州综合 [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 浙江 Ⅰ 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
@@ -386,7 +388,6 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 长子综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
-汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 
 # ☘️辽宁频道,
@@ -394,6 +395,8 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 泰山太平岭,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
+辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 辽宁青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
 
 # ☘️吉林频道,
@@ -459,7 +462,7 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 # 🌊港·澳·台,
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
@@ -474,9 +477,8 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 澳门体育,http://cdn6.163189.xyz/163189/amty
 TVB News,http://r.jdshipin.com/CkuBd
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
-凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 港台电视31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 望乡台,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
 港台电视32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 TVB Plus,http://r.jdshipin.com/Nr5jq
