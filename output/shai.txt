@@ -1,6 +1,6 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 631
-# Demo匹配成功: 423
+# 原始频道总数: 634
+# Demo匹配成功: 426
 # 丢弃数量: 208
 # 格式: 频道名,URL
 
@@ -52,7 +52,7 @@ China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1988,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
 春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791248400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b2ff32aacc20e19be11990b0d8c08800&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
 NOW NEWS,http://cdn.163189.xyz/163189/now
 亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
