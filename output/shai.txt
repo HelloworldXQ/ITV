@@ -1,7 +1,7 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 636
-# Demo匹配成功: 428
-# 丢弃数量: 208
+# 原始频道总数: 634
+# Demo匹配成功: 427
+# 丢弃数量: 207
 # 格式: 频道名,URL
 
 China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -130,7 +130,6 @@ RT Documentary（英语纪录）,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500
 Bread TV (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 劲爆体育,http://t.061899.xyz/tl/tl.php?id=jbty
-中学生,http://t.061899.xyz/tl/tl.php?id=zxs
 CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
 Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
 Good 2,https://live.streamingfast.net/osmflivech2.m3u8
