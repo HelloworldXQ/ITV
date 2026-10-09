@@ -1,7 +1,7 @@
 # Demo筛选丢弃的频道
-# 原始频道总数: 634
+# 原始频道总数: 636
 # Demo匹配成功: 427
-# 丢弃数量: 207
+# 丢弃数量: 209
 # 格式: 频道名,URL
 
 China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
@@ -118,6 +118,7 @@ Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 Kangba TV,http://110.185.237.164:8888/hls/30/index.m3u8
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 萬州綜合頻道 (576p),http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 萬州三峽移民 (576p),http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -130,6 +131,7 @@ RT Documentary（英语纪录）,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500
 Bread TV (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 劲爆体育,http://t.061899.xyz/tl/tl.php?id=jbty
+中学生,http://t.061899.xyz/tl/tl.php?id=zxs
 CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
 Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
 Good 2,https://live.streamingfast.net/osmflivech2.m3u8
