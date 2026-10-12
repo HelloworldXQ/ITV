@@ -25,7 +25,6 @@ CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTe
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -48,7 +47,7 @@ CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
 贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8
 河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://123.130.84.106:8154/tsfile/live/0116_1.m3u8
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
 江西卫视,http://112.27.235.94:8000/hls/44/index.m3u8
@@ -143,7 +142,7 @@ Viu TV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 
 # ☘️浙江频道,
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -372,8 +371,8 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 
 # ☘️新疆频道,
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
-伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
+伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
+伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
@@ -398,9 +397,6 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 泰山太平岭,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
-辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
-辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
-辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 辽宁青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
 
 # ☘️吉林频道,
@@ -454,7 +450,6 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 河北少儿,http://1.94.31.214/php/hebei.php?id=sekj
 河北影视,http://1.94.31.214/php/hebei.php?id=hbys
 河北经济,http://1.94.31.214/php/hebei.php?id=jjsh
-河北都市,http://1.94.31.214/php/hebei.php?id=hbds
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
